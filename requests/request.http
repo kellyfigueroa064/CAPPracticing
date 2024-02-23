@@ -1,0 +1,9 @@
+POST http://127.0.0.1:4004/odata/v4/login/usuario
+Content-Type: application/json
+
+{
+    "username": "dbadmin",
+    "email": "admin@correo.com",
+    "password": "123456"
+}
+
